@@ -1,2 +1,6 @@
 New file6_colab
+<<<<<<< HEAD
 New line of Bruno's
+=======
+new line - Beniamin
+>>>>>>> 8ed48471087717be334c7c7d2bb6e1779581c649
